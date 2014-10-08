@@ -13,5 +13,10 @@
     "packageUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/update_3.zip",
     "version": "1.0.3",
     "versionUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/version2"
+  },
+  {
+    "packageUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/update_4.zip",
+    "version": "1.0.4",
+    "versionUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/version3"
   }
 ]
