@@ -1,0 +1,27 @@
+[
+  {
+    "packageUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/update_1.zip",
+    "version": "1.0.1",
+    "versionUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/version"
+  },
+  {
+    "packageUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/update_2.zip",
+    "version": "1.0.2",
+    "versionUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/version1"
+  },
+  {
+    "packageUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/update_3.zip",
+    "version": "1.0.3",
+    "versionUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/version2"
+  },
+  {
+    "packageUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/update_4.zip",
+    "version": "1.0.4",
+    "versionUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/version3"
+  },
+  {
+    "packageUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/update_5.zip",
+    "version": "1.0.5",
+    "versionUrl": "https://raw.githubusercontent.com/wangjinyan11/sanguo/master/version4"
+  }
+]
